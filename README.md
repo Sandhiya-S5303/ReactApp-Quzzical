@@ -4,7 +4,7 @@
 Introducing Quizzical, the web-based quiz game that challenges your knowledge and keeps you on your toes! Join the fun and see if you have what it takes to be a trivia champion. Get ready to quiz, compete, and unravel fascinating facts! 
 
 
-## Features of the quiz app
+# Features of the quiz app
 
 
 - Home page/quiz page
@@ -17,7 +17,7 @@ Introducing Quizzical, the web-based quiz game that challenges your knowledge an
 
 
 
-## How I Created The App
+# How I Created The App
 
 
 - I used useEffect() hook, to put API data into state and deal with side effects
@@ -40,28 +40,10 @@ Introducing Quizzical, the web-based quiz game that challenges your knowledge an
 
 
 
-## What I learned
+# What I learned
 
 
 - I strengthened my fundamental React knowledge with this project.
-
-
-  # SCREENSHORTS
-
-
-  Main Screen - Light Mode
-
-
-  Main Screen - Dark Mode
-
-
-  Quiz Page
-
-
-  Quiz Page - After Answering
-
-  
-
 
 
 ## How to run ?
@@ -69,3 +51,33 @@ Introducing Quizzical, the web-based quiz game that challenges your knowledge an
 
       npm install
       npm start
+
+
+
+# SCREENSHOTS 
+
+
+Main Screen 
+
+
+![Screenshot 2023-11-26 212353](https://github.com/Sandhiya-S5303/ReactApp-Quzzical/assets/110396890/4fb3e3f1-7eb0-4927-855a-89336bc87876)
+
+
+
+
+
+Quiz Page
+
+
+![Screenshot 2023-11-26 212504](https://github.com/Sandhiya-S5303/ReactApp-Quzzical/assets/110396890/55c8c125-fe64-4fe9-a74b-a0e4eb0c3ef1)
+
+
+
+
+Quiz Page - After Answered
+
+
+![Screenshot 2023-11-26 212339](https://github.com/Sandhiya-S5303/ReactApp-Quzzical/assets/110396890/7e1f9712-40ca-4c36-a7f2-677451b2ad1c)
+
+
+
