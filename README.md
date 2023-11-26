@@ -1,4 +1,4 @@
-# What is Quizzical
+# WHAT IS QUIZZICAL ?
 
 
 Introducing Quizzical, the web-based quiz game that challenges your knowledge and keeps you on your toes! Join the fun and see if you have what it takes to be a trivia champion. Get ready to quiz, compete, and unravel fascinating facts! 
@@ -44,6 +44,23 @@ Introducing Quizzical, the web-based quiz game that challenges your knowledge an
 
 
 - I strengthened my fundamental React knowledge with this project.
+
+
+  # SCREENSHORTS
+
+
+  Main Screen - Light Mode
+
+
+  Main Screen - Dark Mode
+
+
+  Quiz Page
+
+
+  Quiz Page - After Answering
+
+  
 
 
 
